@@ -15,7 +15,8 @@ public class FL1 : ModuleRules
 			"InputCore",
 			"EnhancedInput",
 			"AIModule",
-			"StateTreeModule",
+            "NavigationSystem",
+            "StateTreeModule",
 			"GameplayStateTreeModule",
 			"UMG",
 			"Slate"
